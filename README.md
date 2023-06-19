@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Where's Waldo Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is part of The Odin Project curriculum and aims to recreate the popular puzzle game "Where's Waldo" in a digital format. The project utilizes React and is hosted on Firebase for seamless online access.
 
-## Available Scripts
+## Features
+- Engaging gameplay: Players can search for Waldo in various scenes, testing their observation skills.
+- Interactive interface: The app provides an intuitive and user-friendly interface for a smooth gaming experience.
+- Scene selection: Users can choose from a collection of scenes to challenge themselves with different levels of difficulty.
+- Timer and scoring: The game includes a timer to track the duration of each playthrough and a scoring system to encourage competition.
 
-In the project directory, you can run:
+## Technologies Used
+- React: The project leverages the React library for building the user interface and managing component interactions.
+- Firebase: The app is hosted on Firebase, a powerful cloud-based platform, ensuring efficient deployment and real-time updates.
 
-### `npm start`
+## How to Play
+1. Visit the project's website or access it through the provided link.
+2. Choose a scene to begin the game.
+3. Search for Waldo within the scene by clicking or tapping on potential Waldo locations.
+4. Use the timer and scoring system to track your progress and compete with others.
+5. Enjoy the challenge and have fun finding Waldo!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Deployment
+The project is hosted on Firebase and can be accessed online through the following link: [Project Link](https://your-project-link-here.com)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contributions
+Contributions to the project are welcome. If you find any issues or have suggestions for improvements, feel free to submit a pull request.
 
-### `npm test`
+## Acknowledgments
+This project is inspired by the classic "Where's Waldo" puzzle game and is developed as part of The Odin Project curriculum. Special thanks to The Odin Project for providing a valuable learning resource.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
