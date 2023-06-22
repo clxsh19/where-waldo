@@ -41,7 +41,6 @@ function App() {
       })
     );
 
-    console.log(dummyLevels);
     setLevels(dummyLevels);
   }, []);
 
@@ -61,7 +60,7 @@ function App() {
           <Route
             key={id}
             path={`/map/${id}`}
-            element={<Game image_url={level.image_url} characters={} />}
+            element={<Game image_url={level.image_url} characters={level.characters} />}
           />
         ))}
       </Routes>
